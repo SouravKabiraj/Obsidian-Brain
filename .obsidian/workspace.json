@@ -4,38 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd454dc946b01f1",
+        "id": "18c3cb923739dda2",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4059226018f023",
+            "id": "a946f649a0c7d1a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "From Engineer to Technical Manager (A Survival Guide)"
-            }
-          },
-          {
-            "id": "f8c0367b9e021509",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Tech Courses/diagrams/diagram_1.canvas",
-                "viewState": {
-                  "x": 39.5,
-                  "y": 105,
-                  "zoom": -0.5251736160417612
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "diagram_1"
             }
           }
         ]
@@ -192,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +191,9 @@
   },
   "active": "0e2949ca5cdf945c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-01 19.58.09.excalidraw.md",
     "Daily Task.md",
+    "Excalidraw/Drawing 2025-03-01 19.54.30.excalidraw.md",
     "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
     "Credit Cards/RBL Rewards.md",
     "Credit Cards",

@@ -49,6 +49,8 @@ Ask the following questions
 2) Who will work on it?
 3) How you are going to achieve them?
 
+
+---
 # Delivering Result from a Team
 ## Avoid Overcommitment
 1) Don't give accurate estimate, consider overhead like meeting, etc
@@ -74,31 +76,27 @@ Ask the following questions
    2) What are you doing right now?
    3) How you spend this week?
    4) What distraction / What all meeting you attended?
-
 ## Situational Awareness
 Check Project manager frequently
 - Current Status
 - Current Blocker 
 - Any Delay
+
 ### How to deal with delay in project
 Find if there is any blocker
 Understand the blocker 
 Help teammates to resolve the blocker
-
 ## Importance of Simplicity
 Number of task is to get things done
 Understand the result to be delivered
 **Simplicity = Less things to break + quick delivery + lower cost**
-
 ## Working Backwards
 Working backward from the "customer experience" you want to deliver, and figure out the simplest technical solution to deliver the experience.
 ```
 Customer Experience -> Simplest Solution
 ```
-
 [DON'T] Give solution in search for a problem
 [DO] Give solution which meet the target and simple
-
 ```
 Steps:
 1) Start with the UI and UX
@@ -106,6 +104,7 @@ Steps:
 3) Then the data that powers the service
 ```
 
+---
 # People Management
 ## Structuring 1:1
 Points to cover during 1:1 meeting
@@ -116,7 +115,6 @@ Points to cover during 1:1 meeting
 5. Share Negative Feedback
 6. Take feedback from them
 7. Talk about their career goals
-
 ![[1_1checklist]]
 
 ### Pro Tips
@@ -127,9 +125,7 @@ Points to cover during 1:1 meeting
 ⭐ Criticize the behaviour not the person
 ⭐ Use SMART goal setting technique
 ⭐ Share 2/3 month roadmap with the employee
-
 ![[SMART]]
-
 ## Handling Difficult Conversions
 
 ### Listen
@@ -141,8 +137,65 @@ Points to cover during 1:1 meeting
 2. Listen, be concerned, but don't promise anything
 3. Involve HR if required 
 4. Respect confidentiality
-
 ## Key Points
 1) Find a way to let people work on their ideas without sacrificing you commitments.
 2) Align task with career goals.
-3) 
+3) Guide technical decision without being proscriptive
+   *for example: Don't spoon feed design decision*
+4) Amplify your team's talents, skill, ideas
+5) Don't impose your own ideas
+
+## Managing Growth of different levels
+### New Hire
+- Find a buddy for them
+- Set clear expectation
+- Ensure work is tightly defined
+- Check in frequently (Daily 1:1)
+### Mid Level
+- Find opportunities for growth
+- Working with other team/group, architeature 
+- Check in weekly
+### High Level
+- Collaborate with other high level engineers
+- Work towards management
+- Check in as needed (say monthly)
+---
+# Hiring And Firing
+
+
+---
+# Working with upper Management
+## Managing Up
+- Understand your managers goal and **fit into your manager's goal**.
+- Keep open communication, keep him **update with the status**
+## Have Backbone, disagree and commit
+- Don't be afraid to ask questions, push back
+- You mast commit to the decision (when though you are not aligned to it)
+- Not complain especially to your team
+- Recognize you are wrong
+## How to deliver "Bad News"
+- Be Honest
+- Come with solutions
+- Present your plan to fix the issue
+- Share the root cause of the issue (using 5 whys method)
+- Share "what you have already done to prevent the issue again"
+## Meeting etiquette
+if you don't know something 
+- Don't say something that looks good, **say you don't know, find later and follow up**
+- You should have **situational knowledge**
+- Don't speak more then you need to
+- Don't interrupt others
+- Speak clearly
+- Be on time, leave on time
+- Don't call for unnecessary meeting
+- Find an ally (who is an extrovert) in the meeting, they can give you chance to speak up
+- Be the person who may not say much, but **says something really insightful**
+- Listen more than talk
+##  Presenting to upper management
+- Be Prepared
+  - Anticipate questions and have the answers ready
+  - Attend similar type of meeting
+  - Do practice with your boss
+  - Just answer the questions, don't make unnecessary conversation
+  - Don't take things personally
+- Write Down all **your action items**
