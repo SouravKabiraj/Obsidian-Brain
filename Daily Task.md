@@ -1,0 +1,6 @@
+- [ ] Solve Problem #1 🔺 🔁 every day 🛫 2025-02-23
+- [x] Solve Problem #1 🔺 🔁 every day 🛫 2025-02-22 ✅ 2025-02-23
+- [ ] Solve Problem #2 ⏫ 🔁 every day 🛫 2025-02-23
+- [x] Solve Problem #2 ⏫ 🔁 every day 🛫 2025-02-22 ✅ 2025-02-23
+- [ ] Read One Article 🔺 🔁 every day 🛫 2025-02-22 
+- [ ] Udemy Course 🔺 🔁 every day 🛫 2025-02-22 

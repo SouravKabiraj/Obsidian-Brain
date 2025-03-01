@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "e93732d57e9b0756",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bd454dc946b01f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4059226018f023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "From Engineer to Technical Manager (A Survival Guide)"
+            }
+          },
+          {
+            "id": "f8c0367b9e021509",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tech Courses/diagrams/diagram_1.canvas",
+                "viewState": {
+                  "x": 39.5,
+                  "y": 105,
+                  "zoom": -0.5251736160417612
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "diagram_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71370e5a5f657045",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8ddfa5bb7e9a7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ae10e13edc848d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ea1009204b991486",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90ead14ed5c548b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "7ed3e2c201fb7576",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c7235c6a7e84372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace019d167738597",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-23 01.11.18.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2025-02-23 01.11.18.excalidraw"
+            }
+          },
+          {
+            "id": "6ded79d752918a5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2c84b72976bbd8d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2dc7649a47c7b95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of From Engineer to Technical Manager (A Survival Guide)"
+            }
+          },
+          {
+            "id": "8ab1cbd0e87bf473",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0e2949ca5cdf945c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0e2949ca5cdf945c",
+  "lastOpenFiles": [
+    "Daily Task.md",
+    "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
+    "Credit Cards/RBL Rewards.md",
+    "Credit Cards",
+    "Tech Courses/diagrams/diagram_1.canvas",
+    "Tech Courses/diagrams/1_1checklist.md",
+    "Tech Courses/diagrams/SMART.md",
+    "Excalidraw",
+    "Excalidraw/dummy.md",
+    "Good Reads/Interview Rubric.md",
+    "Tech Courses/diagrams/diagram_2.canvas",
+    "Behavioral Interview Questions/Mistake You Made.md",
+    "Behavioral Interview Questions/What You Enjoy Most.md",
+    "Behavioral Interview Questions/Challenges You Faced.md",
+    "Behavioral Interview Questions/Weakness.md",
+    "Behavioral Interview Questions/Tell Me About Yourself.md",
+    "Behavioral Interview Questions/Resolving Conflict Between Teams.md",
+    "Behavioral Interview Questions/Leadership Skill.md",
+    "Tech Courses/diagrams",
+    "Tech Courses",
+    "system_design/dummy.canvas",
+    "Excalidraw/Drawing 2025-02-23 01.15.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-23 01.11.18.excalidraw.md",
+    "Passport Renewal.md",
+    "prap_interview/books",
+    "2025-02-23.md",
+    "Daily Task",
+    "prap_interview/system_design/dummy.excalidraw.md",
+    "Welcome.md",
+    "System Design",
+    "Behavioral Interview Questions",
+    "Good Reads",
+    "prap_interview",
+    "create a link.md"
+  ]
+}
