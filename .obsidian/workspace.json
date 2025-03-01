@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18c3cb923739dda2",
+        "id": "249deb17922be7f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a946f649a0c7d1a4",
+            "id": "f7e751fa0c419fdf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
-                "bFile": "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
-                "aRef": ""
+                "file": "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: From Engineer to Technical Manager (A Survival Guide)"
+              "icon": "lucide-file",
+              "title": "From Engineer to Technical Manager (A Survival Guide)"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for From Engineer to Technical Manager (A Survival Guide)"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of From Engineer to Technical Manager (A Survival Guide)"
             }
           },
           {
@@ -187,9 +189,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a946f649a0c7d1a4",
+  "active": "f7e751fa0c419fdf",
   "lastOpenFiles": [
+    "Tech Courses/Resources/FromEngineerToTechnicalManager.pdf",
     "Tech Courses/From Engineer to Technical Manager (A Survival Guide).md",
+    "Tech Courses/Resources/diagram_2.canvas",
+    "Tech Courses/Resources/diagram_1.canvas",
+    "Tech Courses/Resources/SMART.md",
+    "Tech Courses/Resources/1_1checklist.md",
+    "Tech Courses/Resources",
+    "Tech Courses/diagrams/FromEngineerToTechnicalManager.pdf",
+    "Tech Courses/Resour",
+    "Tech Courses/untitled folder",
+    "Tech Courses/FromEngineerToTechnicalManager.pdf",
     "Tech Courses/diagrams/diagram_2.canvas",
     "Tech Courses/diagrams/diagram_1.canvas",
     "Excalidraw/Drawing 2025-03-01 19.58.09.excalidraw.md",
@@ -215,15 +227,9 @@
     "Excalidraw/Drawing 2025-02-23 01.15.52.excalidraw.md",
     "Excalidraw/Drawing 2025-02-23 01.11.18.excalidraw.md",
     "Passport Renewal.md",
-    "prap_interview/books",
     "2025-02-23.md",
-    "Daily Task",
     "prap_interview/system_design/dummy.excalidraw.md",
     "Welcome.md",
-    "System Design",
-    "Behavioral Interview Questions",
-    "Good Reads",
-    "prap_interview",
     "create a link.md"
   ]
 }

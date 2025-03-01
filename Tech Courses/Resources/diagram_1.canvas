@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"d1dbcb3e9dfe2fc1","type":"text","text":"New Email","x":-119,"y":-410,"width":120,"height":60,"color":"6"},
+		{"id":"5fcc38a8ada1e332","type":"text","text":"Is Spam?","x":-119,"y":-270,"width":120,"height":50,"color":"5"},
+		{"id":"bb4db03d0f092ecc","type":"text","text":"Archive","x":-359,"y":130,"width":140,"height":60,"color":"1"},
+		{"id":"fe79819756ab6c0b","type":"text","text":"Delete","x":-561,"y":-219,"width":250,"height":60,"color":"1"},
+		{"id":"a5c5ba68c97041a1","type":"text","text":"Is Actionable?","x":-129,"y":-110,"width":140,"height":60,"color":"5"},
+		{"id":"15c250bcfb2db0b9","type":"text","text":"Can I do it today?\nIs it time sensitive?","x":180,"y":72,"width":140,"height":117,"color":"5"},
+		{"id":"07baf02635d2a682","type":"text","text":"Keep it in ToDo List of Future Date","x":440,"y":89,"width":200,"height":80,"color":"3"},
+		{"id":"ba8d338c990220f1","type":"text","text":"Keep it in Today's ToDo List","x":150,"y":380,"width":200,"height":80,"color":"3"},
+		{"id":"caeac8d2e7a2e89d","type":"text","text":"Do it on the basis of **priority**","x":150,"y":540,"width":200,"height":80,"color":"3"},
+		{"id":"d4c2f28c77904003","type":"text","text":"Wait for scheduled date","x":410,"y":420,"width":200,"height":80,"color":"6"}
+	],
+	"edges":[
+		{"id":"8792ea7f84fa68e7","fromNode":"d1dbcb3e9dfe2fc1","fromSide":"bottom","toNode":"5fcc38a8ada1e332","toSide":"top"},
+		{"id":"26aa83e5696f919c","fromNode":"5fcc38a8ada1e332","fromSide":"bottom","toNode":"a5c5ba68c97041a1","toSide":"top","label":"Yes"},
+		{"id":"6ae8ee1b616d1a50","fromNode":"5fcc38a8ada1e332","fromSide":"left","toNode":"fe79819756ab6c0b","toSide":"right","label":"Yes"},
+		{"id":"9af8c4a9ece4c95e","fromNode":"15c250bcfb2db0b9","fromSide":"bottom","toNode":"ba8d338c990220f1","toSide":"top","label":"Yes"},
+		{"id":"f4dd4b048a992ec5","fromNode":"15c250bcfb2db0b9","fromSide":"right","toNode":"07baf02635d2a682","toSide":"left","label":"No"},
+		{"id":"65ecebf7f1283d8c","fromNode":"a5c5ba68c97041a1","fromSide":"bottom","toNode":"15c250bcfb2db0b9","toSide":"top","label":"Yes"},
+		{"id":"a562f262c2ea0e2d","fromNode":"07baf02635d2a682","fromSide":"bottom","toNode":"d4c2f28c77904003","toSide":"top"},
+		{"id":"edd43ca221eadd15","fromNode":"a5c5ba68c97041a1","fromSide":"left","toNode":"bb4db03d0f092ecc","toSide":"top","label":"No"},
+		{"id":"5359529154a45156","fromNode":"caeac8d2e7a2e89d","fromSide":"left","toNode":"bb4db03d0f092ecc","toSide":"bottom"},
+		{"id":"4dde06e124b7eff2","fromNode":"ba8d338c990220f1","fromSide":"bottom","toNode":"caeac8d2e7a2e89d","toSide":"top"},
+		{"id":"a50bdfb5b42d5886","fromNode":"d4c2f28c77904003","fromSide":"bottom","toNode":"caeac8d2e7a2e89d","toSide":"right"}
+	]
+}

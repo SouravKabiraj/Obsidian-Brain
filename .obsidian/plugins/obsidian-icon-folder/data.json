@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiConciergeBell",
       "LiBadgeDollarSign",
       "♻",
       "LiCircleFadingArrowUp",
-      "LiComputer",
-      "LiMousePointerClick"
+      "LiComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,6 +39,6 @@
   "Good Reads": "LiBook",
   "System Design": "LiArrowUpRightSquare",
   "Tech Courses": "LiComputer",
-  "Tech Courses/diagrams": "♻",
-  "Excalidraw": "LiBadgeDollarSign"
+  "Excalidraw": "LiBadgeDollarSign",
+  "Tech Courses/Resources": "LiConciergeBell"
 }

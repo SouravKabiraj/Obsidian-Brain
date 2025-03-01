@@ -245,3 +245,6 @@ You want everybody to feel they are part of A-List.
 - Learn from decisions you don't understand
 - Observe upper management and learn from them
 - Build good relations outside your team
+
+# Reference  
+![[FromEngineerToTechnicalManager.pdf]]
