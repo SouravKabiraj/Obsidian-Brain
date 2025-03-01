@@ -1,201 +1,247 @@
-# Survival Guide
-## The importance of letting go
-Stop coding!! My goal is to keep larger team productive, collective result, make sure they are working on right things
-```
-"Amplify the team, don't amplify your"
-```
-## Don't steal credit
-Guide team to their right direction, but ultimately it is their achievement.
-## Leading By Example
-Engineers ofter copy their manager/lead. Try to be their role model.
-Be Honest
-Be Focus on result
-Be Positive
-Be Happy, if you are not happy, team will pick that up
+# Section 1: Survival Guide
+
+## The Importance of Letting Go
+Stop coding! Your goal is to keep the larger team productive, focus on collective results, and ensure they are working on the right things.
+
+> "Amplify the team, don't amplify yourself."
+
+## Don't Steal Credit
+Guide the team in the right direction, but ultimately, their achievements belong to them.
+
+## Leading by Example
+Engineers often emulate their managers or leads. Be a role model:
+- Be **honest**
+- Focus on **results**
+- Stay **positive**
+- Be **happy**—if you're not, the team will sense it
+
 ## Time Management
-Manage Email Inbox like ![[diagram_1.canvas]]
-Manage Slack Inbox like ![[diagram_2.canvas]]
-Create a TODO list
-Block calendar to do any task
-## Remain Focused
-Block calendar to do any task
-Put of headphone
-Put a **"Busy"** slack status
-Stop Notification 
+- **Manage Email Inbox** efficiently ![[diagram_1.canvas|diagram_1]]
+- **Manage Slack Inbox** effectively ![[diagram_2.canvas|diagram_2]]
+- **Create a TODO list**
+- **Block calendar time** to focus on tasks
+
+## Remaining Focused
+- **Block calendar** for deep work
+- **Put on headphones**
+- Set a **"Busy"** Slack status
+- **Stop notifications**
+
 ## Delegation
-Share task according of the teammate's career plan
-While sharing the task share the following details as well 
-1) Requirements
-2) When it is need to be done by
-3) How to get more information
-4) What will be following meeting 
-5) Open communication channel to get details for delay *(if any)*
+Share tasks based on teammates' career plans. Provide:
+1. **Requirements**
+2. **Deadline**
+3. **Where to find more information**
+4. **Follow-up meeting details**
+5. **Open communication channel** for delays *(if any)*
 
-### Common pitfall 
-Do not take any task just because you don't trust anyone else!!!
-#### Delegating out 
-Scope out task if project/team/product goal is not aligned
-If possible, assign it to project manager
+### Common Pitfalls
+🚫 Don't take on tasks just because you don't trust anyone else!
 
-## Think Strategically, Act Tactically 
-### Strategically 
-Ask the following questions
-1) What is objective?
-2) Why we are building?
-3) What will be customer experience?
-4) Why we are building something?
-### Tactics
-1) How you are going to do it?
-2) Who will work on it?
-3) How you are going to achieve them?
+### Delegating Out
+- Scope out tasks misaligned with project/team/product goals
+- If possible, assign them to a project manager
 
+## Think Strategically, Act Tactically
+### **Strategic Thinking**
+Ask:
+1. What is the **objective**?
+2. Why are we **building this**?
+3. What will be the **customer experience**?
+
+### **Tactical Execution**
+1. **How** will we do it?
+2. **Who** will work on it?
+3. **How** will we achieve our goals?
 
 ---
-# Delivering Result from a Team
+
+# Section 2: Delivering Results as a Team
 ## Avoid Overcommitment
-1) Don't give accurate estimate, consider overhead like meeting, etc
-2) Include Project Manager when someone ask you for estimation
-3) Actual ETA = Estimate Time x 3
+1. Don't give exact estimates—consider overheads like meetings.
+2. Include the **Project Manager** when estimating.
+3. **Actual ETA** = Estimated Time × **3**
 
-### Tactics: How things get done
-1) Break down whole project into multiple sub project
-2) Break down sub projects into multiple tasks
-3) Break down tasks into multiple sub tasks
-4) Create a dependency graph for all the sub tasks
-5) Create project milestones
-6) Understand **External dependencies**
-7) Understand team's availability
-8) Understand team's efficiency
-9) Use **Kanban** for project status
-10) Open letter to share project status
+### **How Things Get Done**
+1. Break the project into **sub-projects**
+2. Break sub-projects into **tasks**
+3. Break tasks into **sub-tasks**
+4. **Create a dependency graph**
+5. Define **project milestones**
+6. Identify **external dependencies**
+7. Assess **team availability & efficiency**
+8. Use **Kanban** for tracking
+9. Write an **open letter** to share status
 
-### Pushing things forward
-1) Use **Kanban** for project status
-2) Share weekly **1:1** with project mates
-   1) Ask if there is any blocker?
-   2) What are you doing right now?
-   3) How you spend this week?
-   4) What distraction / What all meeting you attended?
+### **Pushing Things Forward**
+- Use **Kanban** for project tracking
+- Weekly **1:1 meetings** with project members:
+  - Any blockers?
+  - Current tasks?
+  - Weekly progress?
+  - Distractions or unnecessary meetings?
+
 ## Situational Awareness
-Check Project manager frequently
-- Current Status
-- Current Blocker 
-- Any Delay
+- Regularly check with the **Project Manager**:
+  - **Current status**
+  - **Blockers**
+  - **Delays**
 
-### How to deal with delay in project
-Find if there is any blocker
-Understand the blocker 
-Help teammates to resolve the blocker
-## Importance of Simplicity
-Number of task is to get things done
-Understand the result to be delivered
-**Simplicity = Less things to break + quick delivery + lower cost**
+### **Handling Delays**
+1. Identify **blockers**
+2. Understand the **cause**
+3. Help teammates resolve them
+
+## The Importance of Simplicity
+🚀 Simplicity = **Fewer things to break + Faster delivery + Lower cost**
+
 ## Working Backwards
-Working backward from the "customer experience" you want to deliver, and figure out the simplest technical solution to deliver the experience.
-```
-Customer Experience -> Simplest Solution
-```
-[DON'T] Give solution in search for a problem
-[DO] Give solution which meet the target and simple
-```
+Start from the desired **customer experience**, then define the simplest solution.
+
+> **Customer Experience → Simplest Solution**
+
+✅ DO: Provide solutions that meet targets and are simple.
+🚫 DON'T: Search for problems to fit a solution.
+
 Steps:
-1) Start with the UI and UX
-2) Then the service that powers the UI
-3) Then the data that powers the service
-```
+1. Define the **UI/UX**
+2. Then the **service** powering the UI
+3. Then the **data** powering the service
 
 ---
-# People Management
-## Structuring 1:1
-Points to cover during 1:1 meeting
-1. Schedule weekly 1:1 
-2. Status of the deliverables
-3. Any blockers
-4. Share Positive Feedback
-5. Share Negative Feedback
-6. Take feedback from them
-7. Talk about their career goals
+
+# Section 3: People Management
+## Structuring 1:1 Meetings
 ![[1_1checklist]]
+1. **Schedule weekly 1:1s**
+2. Discuss **status of deliverables**
+3. Identify **blockers**
+4. Share **positive feedback**
+5. Provide **constructive criticism**
+6. Take **feedback** from them
+7. Discuss **career goals**
 
-### Pro Tips
-⭐ Start with **positive feedback**, followed by **negative feedback**, ends with something **positive feedback** again
-⭐ Acknowledge work well done in public
-⭐ Share negative feedback in private
-⭐ Stick to the fact
-⭐ Criticize the behaviour not the person
-⭐ Use SMART goal setting technique
-⭐ Share 2/3 month roadmap with the employee
-![[SMART]]
-## Handling Difficult Conversions
+### **Pro Tips**
+⭐ Start with **positive feedback**, then **constructive criticism**, end with **another positive note**
+⭐ **Praise in public**, criticize in private
+⭐ **Stick to facts**, critique behavior—not the person
+⭐ Use **SMART goals** for career planning
+⭐ Share a **2-3 month roadmap**
 
-### Listen
-1. Active Listening
-2. Repeat back in your own word what they said
-3. Acknowledge their feeling
-### Stay Cool
-1. Don't cross the line to sympathy or assigning blame just yet
-2. Listen, be concerned, but don't promise anything
-3. Involve HR if required 
-4. Respect confidentiality
+## Handling Difficult Conversations
+### **Listening Techniques**
+1. **Active listening**
+2. **Paraphrase** what they said
+3. **Acknowledge their feelings**
+
+### **Staying Cool**
+- Avoid **blame or empty promises**
+- Involve **HR if needed**
+- Maintain **confidentiality**
+
 ## Key Points
-1) Find a way to let people work on their ideas without sacrificing you commitments.
-2) Align task with career goals.
-3) Guide technical decision without being proscriptive
-   *for example: Don't spoon feed design decision*
-4) Amplify your team's talents, skill, ideas
-5) Don't impose your own ideas
+1. Let people work on their ideas without compromising commitments.
+2. Align tasks with career goals.
+3. Guide technical decisions without **micromanaging**.
+4. Amplify your team's **talents, skills, and ideas**.
+5. Avoid imposing your **own** ideas.
 
-## Managing Growth of different levels
-### New Hire
-- Find a buddy for them
-- Set clear expectation
-- Ensure work is tightly defined
-- Check in frequently (Daily 1:1)
-### Mid Level
-- Find opportunities for growth
-- Working with other team/group, architeature 
-- Check in weekly
-### High Level
-- Collaborate with other high level engineers
-- Work towards management
-- Check in as needed (say monthly)
----
-# Hiring And Firing
+## Managing Growth Across Levels
+### **New Hires**
+- Assign a **buddy**
+- Set **clear expectations**
+- Define **specific tasks**
+- **Check in daily**
 
+### **Mid-Level Engineers**
+- Provide **growth opportunities**
+- Encourage **cross-team collaboration**
+- **Weekly check-ins**
+
+### **Senior Engineers**
+- Foster **collaboration with high-level peers**
+- Guide towards **management roles**
+- **Monthly check-ins**
 
 ---
-# Working with upper Management
+
+# Section 4: Hiring & Firing
+*(Section Placeholder)*
+
+---
+
+# Section 5: Working with Upper Management
 ## Managing Up
-- Understand your managers goal and **fit into your manager's goal**.
-- Keep open communication, keep him **update with the status**
-## Have Backbone, disagree and commit
-- Don't be afraid to ask questions, push back
-- You mast commit to the decision (when though you are not aligned to it)
-- Not complain especially to your team
-- Recognize you are wrong
-## How to deliver "Bad News"
-- Be Honest
-- Come with solutions
-- Present your plan to fix the issue
-- Share the root cause of the issue (using 5 whys method)
-- Share "what you have already done to prevent the issue again"
-## Meeting etiquette
-if you don't know something 
-- Don't say something that looks good, **say you don't know, find later and follow up**
-- You should have **situational knowledge**
-- Don't speak more then you need to
-- Don't interrupt others
-- Speak clearly
-- Be on time, leave on time
-- Don't call for unnecessary meeting
-- Find an ally (who is an extrovert) in the meeting, they can give you chance to speak up
-- Be the person who may not say much, but **says something really insightful**
-- Listen more than talk
-##  Presenting to upper management
-- Be Prepared
-  - Anticipate questions and have the answers ready
-  - Attend similar type of meeting
-  - Do practice with your boss
-  - Just answer the questions, don't make unnecessary conversation
-  - Don't take things personally
-- Write Down all **your action items**
+- Understand **your manager’s goals** and align accordingly.
+- Maintain **open communication** and provide status updates.
+
+## Have Backbone: Disagree & Commit
+- Ask **questions** and push back when needed.
+- **Commit** to decisions even when you **disagree**.
+- Avoid **complaining to your team**.
+- **Admit when you're wrong.**
+
+## How to Deliver Bad News
+- **Be honest**
+- **Propose solutions**
+- **Present a recovery plan**
+- **Use the "5 Whys" method** to find root causes
+- Show **what you've done to prevent recurrence**
+
+## Meeting Etiquette
+🚫 If you don’t know something, **admit it** and follow up later.
+
+### Do’s ✅
+- Have **situational awareness**
+- Speak **clearly** and **briefly**
+- Be **on time**
+- Find an **extroverted ally** to help you speak up
+- Provide **insightful contributions**
+- **Listen more than you talk**
+
+### Don’ts ❌
+- Interrupt others
+- Speak **more than necessary**
+- Call **unnecessary meetings**
+
+## Presenting to Upper Management
+- **Be prepared**
+  - Anticipate **questions**
+  - Attend **similar meetings** beforehand
+  - **Practice with your boss**
+- Stick to the **facts**
+- **Write down action items** after meetings
+---
+
+# Section 6: Building and Maintaining Morale
+## Building your tribe
+- Make them feel united against the target goals
+- Team t-shirt, mugs etc
+- Respect and listen you team
+- Stay together with your team "Us (Team) against the world"
+
+## Good goals = Good morale
+- If you team progress towards the goal as a team, your team will be cohesive, 
+  to make that happen communicate the goals first, Create a dashboard for the status.
+- Make sure you know teammates career goals, help team to achieve those.
+
+## Keep the right people on the bus
+One toxic teammate can destroy the team morale.
+You want everybody to feel they are part of A-List.
+
+## Killing a project without destroying morale
+- Understand why the project is cancelled, convey that effectively.
+- Deliver the news in person.
+- Don't show that you are demoralized.
+- Recognize the good work done, recognize lesson learned.
+
+---
+# Section 7: Your continued growth as a manager
+## Finding a mentor, learning the business, and building relationships
+- Find a mentor (may be outside your company)
+  *Let your boss know about this.*
+- Understand the business
+  *Understand why you are building something*
+- Learn from decisions you don't understand
+- Observe upper management and learn from them
+- Build good relations outside your team
