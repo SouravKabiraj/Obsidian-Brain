@@ -1,0 +1,3 @@
+You shouldn't hire me if you're looking for someone to simply write code in large volumes without considering the bigger picture. I'm someone who thrives on solving root problems, building, cohesive systems, and ensuring stakeholder alignment. If the priority is speed over thoughtful analysis, I might not be the best fit. However, if you're looking for someone who can drive meaningful and scalable solutions, collaborate effectively, and contribute to long-term success, then I believe I'd bring significant value to the team.
+
+#self-awareness #honesty #humility

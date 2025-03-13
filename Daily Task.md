@@ -1,6 +1,3 @@
-- [ ] Solve Problem #1 🔺 🔁 every day 🛫 2025-02-23
-- [x] Solve Problem #1 🔺 🔁 every day 🛫 2025-02-22 ✅ 2025-02-23
-- [ ] Solve Problem #2 ⏫ 🔁 every day 🛫 2025-02-23
-- [x] Solve Problem #2 ⏫ 🔁 every day 🛫 2025-02-22 ✅ 2025-02-23
-- [ ] Read One Article 🔺 🔁 every day 🛫 2025-02-22 
-- [ ] Udemy Course 🔺 🔁 every day 🛫 2025-02-22 
+- https://leetcode.com/discuss/post/6519304/2025-hiring-prep-sprint-big-tech-intervi-w7nl/
+- https://www.udemy.com/course/complete-job-interview-skills-with-real-life-examples/learn/lecture/20146540?start=0#overview
+- https://www.infoq.com/news/2024/02/doordash-config-cockroachdb/ [[Doordash Config Manager]]
