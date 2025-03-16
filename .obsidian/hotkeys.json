@@ -7,5 +7,23 @@
       ],
       "key": "A"
     }
+  ],
+  "json-table:generate-table-from-selected-json": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "json-table:generate-json-from-selected-table": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
