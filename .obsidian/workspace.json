@@ -53,26 +53,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Design a file system (Google Drive).md",
+                "file": "System Design/Design APIs for Facebook live commenting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design a file system (Google Drive)"
+              "title": "Design APIs for Facebook live commenting"
             }
           },
           {
-            "id": "16f2fe04df375c96",
+            "id": "453737f61e38b248",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/json-table/main.js",
-                "bFile": ".obsidian/plugins/json-table/main.js",
-                "aRef": ""
+                "file": "Resume/Sourav Kabiraj.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: main.js"
+              "icon": "lucide-file",
+              "title": "Sourav Kabiraj"
             }
           },
           {
@@ -286,7 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 793.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,39 +301,40 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "0e2949ca5cdf945c",
+  "active": "453737f61e38b248",
   "lastOpenFiles": [
     "System Design/Question Bank.md",
+    "Resume/Sourav Kabiraj.md",
+    "Resume",
+    "Daily Task.md",
     "Behavioral Interview Questions/Question Bank.md",
+    "Behavioral Interview Questions/Tell me about a time when you made short-term sacrifices for long-term gains..md",
+    "Behavioral Interview Questions/Tell me about a time when you handled a difficult stakeholder..md",
+    "System Design/Design APIs for Facebook live commenting.md",
+    "System Design/Design Prime Video.md",
+    "System Design/Design and implement a ranked cache system.md",
+    "System Design/Design a system to log messages in order.md",
+    "System Design/Resources/facebook_live_chat.md",
+    "meta_live_.md",
+    "System Design/Design a file system (Google Drive).md",
+    "System Design/Design Udemy Video Classes like system.md",
+    "meta_live_comments.md",
     "Behavioral Interview Questions/Resources.md",
     "Behavioral Interview Questions/Challenges You Faced.md",
     "main.js",
     "manifest.json",
-    "System Design/Design Prime Video.md",
-    "System Design/Design a file system (Google Drive).md",
     "System Design/Resources/google_drive_file_storage.md",
     "System Design/Resources/google_drive_class.md",
     "Excalidraw/Drawing 2025-03-14 14.42.59.excalidraw.md",
-    "System Design/Design a system to log messages in order.md",
     "System Design/Resources/prime_content_upload_workflow.md",
-    "System Design/Design and implement a ranked cache system.md",
     "System Design/Resources/prime_video_lld.md",
     "System Design/Resources/prime_video_hld.md",
     "System Design/Resources/Untitled.md",
-    "System Design/Design Udemy Video Classes like system.md",
     "System Design/Resources/ranked_cache.md",
     "System Design/Resources/webrtc_1_1.md",
-    "System Design/Resources/webrtc_n_n.md",
     "System Design/Resources",
     "Good Reads/Bytebytego_Big_Archive_System_Design_2023.pdf",
     "Tech Courses/Resources/FromEngineerToTechnicalManager.pdf",
-    "Behavioral Interview Questions/Tell me about a time you made a mistake..md",
-    "Behavioral Interview Questions/Tell Me About Yourself.md",
-    "Behavioral Interview Questions/Tell me about a time when you made short-term sacrifices for long-term gains..md",
-    "Behavioral Interview Questions/Tell me about a time when you handled a difficult stakeholder..md",
-    "Behavioral Interview Questions/Mistake You Made.md",
-    "Behavioral Interview Questions/How do you prioritize competing features?.md",
-    "Behavioral Interview Questions/How would you respond if your team disagreed with your ideas?.md",
     "Good Reads/Resources/tech_lead.jpeg",
     "Competitive Programming",
     "Good Reads/Resources",
@@ -341,7 +342,6 @@
     "Tech Courses/Resources/diagram_1.canvas",
     "Tech Courses/Resources",
     "Tech Courses/diagrams/FromEngineerToTechnicalManager.pdf",
-    "Tech Courses/Resour",
     "Tech Courses/diagrams/diagram_2.canvas",
     "Tech Courses/diagrams/diagram_1.canvas",
     "system_design/dummy.canvas"

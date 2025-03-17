@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "❔",
       "LiContainer",
       "LiConciergeBell",
       "LiBadgeDollarSign",
-      "♻",
-      "LiCircleFadingArrowUp"
+      "♻"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,7 @@
   "Tech Courses": "LiComputer",
   "Excalidraw": "LiBadgeDollarSign",
   "Tech Courses/Resources": "LiConciergeBell",
-  "System Design/Resources": "LiContainer"
+  "System Design/Resources": "LiContainer",
+  "Behavioral Interview Questions/Question Bank.md": "❔",
+  "System Design/Question Bank.md": "❔"
 }
