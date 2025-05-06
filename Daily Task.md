@@ -1,3 +1,2 @@
-- https://leetcode.com/discuss/post/6519304/2025-hiring-prep-sprint-big-tech-intervi-w7nl/
 - https://www.udemy.com/course/complete-job-interview-skills-with-real-life-examples/learn/lecture/20146540?start=0#overview
 - https://www.infoq.com/news/2024/02/doordash-config-cockroachdb/ [[Doordash Config Manager]]

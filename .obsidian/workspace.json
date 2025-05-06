@@ -4,135 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a091e6f4815b8f",
+        "id": "d5a8a2c95b587627",
         "type": "tabs",
         "children": [
           {
-            "id": "049d6663af384ee5",
+            "id": "60bd34302b5ccb3a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-14 14.42.59.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-14 14.42.59.excalidraw"
-            }
-          },
-          {
-            "id": "b0b9e9a52780c56a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Design a file system (Google Drive).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design a file system (Google Drive)"
-            }
-          },
-          {
-            "id": "d7841254343b523e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Design a file system (Google Drive).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design a file system (Google Drive)"
-            }
-          },
-          {
-            "id": "9f79f8006eda814f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Design APIs for Facebook live commenting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design APIs for Facebook live commenting"
-            }
-          },
-          {
-            "id": "453737f61e38b248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume/Sourav Kabiraj.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sourav Kabiraj"
-            }
-          },
-          {
-            "id": "2f36ca12f4c3b41b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Design Udemy Video Classes like system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design Udemy Video Classes like system"
-            }
-          },
-          {
-            "id": "3d82f19d919dd088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Design a system to log messages in order.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design a system to log messages in order"
-            }
-          },
-          {
-            "id": "2d069b52e1fb2f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Design and implement a ranked cache system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design and implement a ranked cache system"
-            }
-          },
-          {
-            "id": "c69710de66a72e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Design and implement a ranked cache system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design and implement a ranked cache system"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 237.50247192382812
   },
   "right": {
     "id": "7ed3e2c201fb7576",
@@ -280,13 +165,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "454945470075d436",
+            "type": "leaf",
+            "state": {
+              "type": "hackernews-view",
+              "state": {},
+              "icon": "hackernews",
+              "title": "HackerNews"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 800.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,51 +192,50 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "453737f61e38b248",
+  "active": "60bd34302b5ccb3a",
   "lastOpenFiles": [
-    "System Design/Question Bank.md",
-    "Resume/Sourav Kabiraj.md",
-    "Resume",
-    "Daily Task.md",
-    "Behavioral Interview Questions/Question Bank.md",
-    "Behavioral Interview Questions/Tell me about a time when you made short-term sacrifices for long-term gains..md",
-    "Behavioral Interview Questions/Tell me about a time when you handled a difficult stakeholder..md",
-    "System Design/Design APIs for Facebook live commenting.md",
-    "System Design/Design Prime Video.md",
-    "System Design/Design and implement a ranked cache system.md",
-    "System Design/Design a system to log messages in order.md",
-    "System Design/Resources/facebook_live_chat.md",
-    "meta_live_.md",
-    "System Design/Design a file system (Google Drive).md",
-    "System Design/Design Udemy Video Classes like system.md",
-    "meta_live_comments.md",
-    "Behavioral Interview Questions/Resources.md",
-    "Behavioral Interview Questions/Challenges You Faced.md",
-    "main.js",
-    "manifest.json",
-    "System Design/Resources/google_drive_file_storage.md",
-    "System Design/Resources/google_drive_class.md",
-    "Excalidraw/Drawing 2025-03-14 14.42.59.excalidraw.md",
-    "System Design/Resources/prime_content_upload_workflow.md",
-    "System Design/Resources/prime_video_lld.md",
-    "System Design/Resources/prime_video_hld.md",
-    "System Design/Resources/Untitled.md",
-    "System Design/Resources/ranked_cache.md",
     "System Design/Resources/webrtc_1_1.md",
-    "System Design/Resources",
-    "Good Reads/Bytebytego_Big_Archive_System_Design_2023.pdf",
-    "Tech Courses/Resources/FromEngineerToTechnicalManager.pdf",
+    "infoQ/DoorDash - Policy Automation Platform.md",
+    "infoQ/Slack - Cellular Architecture Migration.md",
+    "infoQ/Uber Eats - Optimising  Search.md",
+    "Behavioral Interview Questions/Managers HandBook.md",
+    "infoQ/resources/diagram5.md",
+    "Competitive Programming/Time Complexcity.md",
+    "infoQ/resources/diagram1.md",
+    "infoQ/resources/diagram4.md",
+    "infoQ/resources/diagram3.md",
+    "infoQ/resources/diagram2.md",
+    "infoQ/resources",
+    "infoQ",
+    "Competitive Programming/problem_solving.pdf",
+    "System Design/Question Bank.md",
+    "System Design/Design APIs for Facebook live commenting.md",
+    "HackerNews",
+    "Object Oriented Concepts/Behavioral Design Pattern.md",
+    "Object Oriented Concepts/Creational Design Patterns.md",
+    "Object Oriented Concepts/Structural Design Pattern.md",
+    "Good Reads/Database Trade Offs/Database Trade Offs.md",
+    "Good Reads/Database Trade Offs",
+    "Behavioral Interview Questions/Challenges You Faced.md",
+    "Good Reads/Database Trade Offs/Databases/MySQL Database.md",
+    "Good Reads/Database Trade Offs/Databases/Cassandra Database.md",
+    "Good Reads/Database Trade Offs/Databases",
+    "System Design/Resources/url_to_ip.md",
+    "System Design/Resources/prime_video_lld.md",
+    "System Design/Resources/prime_content_upload_workflow.md",
+    "Behavioral Interview Questions/Question Bank.md",
+    "Behavioral Interview Questions/Tell Me About Yourself.md",
+    "Behavioral Interview Questions/Project Discussion.md",
+    "Object Oriented Concepts",
+    "Behavioral Interview Questions/resources",
     "Good Reads/Resources/tech_lead.jpeg",
-    "Competitive Programming",
-    "Good Reads/Resources",
+    "Good Reads/Resources/Bytebytego_Big_Archive_System_Design_2023.pdf",
+    "Resume",
     "Tech Courses/Resources/diagram_2.canvas",
     "Tech Courses/Resources/diagram_1.canvas",
-    "Tech Courses/Resources",
-    "Tech Courses/diagrams/FromEngineerToTechnicalManager.pdf",
     "Tech Courses/diagrams/diagram_2.canvas",
     "Tech Courses/diagrams/diagram_1.canvas",
     "system_design/dummy.canvas"
