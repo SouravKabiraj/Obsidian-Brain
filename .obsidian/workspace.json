@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5a8a2c95b587627",
+        "id": "241cfe75edc8570c",
         "type": "tabs",
         "children": [
           {
-            "id": "60bd34302b5ccb3a",
+            "id": "a99d70552a4864e8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Behavioral Interview Questions/Question Bank.md",
+                "bFile": "Behavioral Interview Questions/Question Bank.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Question Bank"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.50247192382812
+    "width": 264.5024719238281
   },
   "right": {
     "id": "7ed3e2c201fb7576",
@@ -137,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Good Reads/Resources/tech_lead.jpeg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tech_lead"
+              "title": "Outline"
             }
           },
           {
@@ -181,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 800.5
+    "width": 610.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,45 +198,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60bd34302b5ccb3a",
+  "active": "a99d70552a4864e8",
   "lastOpenFiles": [
-    "System Design/Resources/webrtc_1_1.md",
-    "infoQ/DoorDash - Policy Automation Platform.md",
-    "infoQ/Slack - Cellular Architecture Migration.md",
-    "infoQ/Uber Eats - Optimising  Search.md",
+    "Good Reads/Design Data Intensive Application/Chapter 3 - Storage and Retrieval.md",
+    "Good Reads/Design Data Intensive Application/resources/btree.png",
+    "Good Reads/Design Data Intensive Application/resources",
+    "Good Reads/Design Data Intensive Application/Chapter 2 - Data Models and Query Languages.md",
     "Behavioral Interview Questions/Managers HandBook.md",
-    "infoQ/resources/diagram5.md",
-    "Competitive Programming/Time Complexcity.md",
-    "infoQ/resources/diagram1.md",
-    "infoQ/resources/diagram4.md",
-    "infoQ/resources/diagram3.md",
-    "infoQ/resources/diagram2.md",
+    "Good Reads/Interview Rubric.md",
+    "Good Reads/Kafka Transaction.md",
+    "Good Reads/Database Trade Offs/Database Trade Offs.md",
+    "Good Reads/Database Trade Offs/Databases/Apache Flink.md",
+    "Good Reads/Design Data Intensive Application",
+    "Good Reads/Untitled.md",
+    "Good Reads/Database Trade Offs/Databases/MySQL Database.md",
+    "Good Reads/Database Trade Offs/Databases/ZooKeeper - The Coordination Service for Distributed Systems.md",
+    "Good Reads/Database Trade Offs/Databases/Cassandra Database.md",
+    "Good Reads/Database Trade Offs/Databases/Apache Kafka System Design.md",
+    "System Design/Question Bank.md",
+    "Behavioral Interview Questions/Question Bank.md",
+    "Behavioral Interview Questions/Solved a complex problem.md",
+    "Behavioral Interview Questions/Describe an experience working in a cross-functional team.md",
+    "Behavioral Interview Questions/Tell me about a time when you received negative feedback.md",
+    "Behavioral Interview Questions/Tell me about a time when you made short-term sacrifices for long-term gains..md",
+    "Object Oriented Concepts/Behavioral Design Pattern.md",
+    "Object Oriented Concepts/Creational Design Patterns.md",
+    "Behavioral Interview Questions/resources/automatic_portfolio_management.md",
+    "Behavioral Interview Questions/Project Discussion.md",
+    "Behavioral Interview Questions/What is the project you are most proud of?.md",
+    "Behavioral Interview Questions/What You Enjoy Most.md",
+    "Behavioral Interview Questions/Why do you think we should not hire you?.md",
     "infoQ/resources",
     "infoQ",
     "Competitive Programming/problem_solving.pdf",
-    "System Design/Question Bank.md",
-    "System Design/Design APIs for Facebook live commenting.md",
     "HackerNews",
-    "Object Oriented Concepts/Behavioral Design Pattern.md",
-    "Object Oriented Concepts/Creational Design Patterns.md",
-    "Object Oriented Concepts/Structural Design Pattern.md",
-    "Good Reads/Database Trade Offs/Database Trade Offs.md",
     "Good Reads/Database Trade Offs",
-    "Behavioral Interview Questions/Challenges You Faced.md",
-    "Good Reads/Database Trade Offs/Databases/MySQL Database.md",
-    "Good Reads/Database Trade Offs/Databases/Cassandra Database.md",
     "Good Reads/Database Trade Offs/Databases",
-    "System Design/Resources/url_to_ip.md",
-    "System Design/Resources/prime_video_lld.md",
-    "System Design/Resources/prime_content_upload_workflow.md",
-    "Behavioral Interview Questions/Question Bank.md",
-    "Behavioral Interview Questions/Tell Me About Yourself.md",
-    "Behavioral Interview Questions/Project Discussion.md",
     "Object Oriented Concepts",
     "Behavioral Interview Questions/resources",
     "Good Reads/Resources/tech_lead.jpeg",
-    "Good Reads/Resources/Bytebytego_Big_Archive_System_Design_2023.pdf",
-    "Resume",
     "Tech Courses/Resources/diagram_2.canvas",
     "Tech Courses/Resources/diagram_1.canvas",
     "Tech Courses/diagrams/diagram_2.canvas",

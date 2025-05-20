@@ -85,3 +85,6 @@ This document outlines the key tradeoffs between these databases based on **data
 - **For flexible schema + scalability** → MongoDB > Cassandra.  
 - **For serverless + low-latency KV** → DynamoDB.  
 - **For high-write, time-series, or global scale** → Cassandra. 
+
+# Resources
+![Youtube|1000](https://www.youtube.com/watch?v=6GebEqt6Ynk)
