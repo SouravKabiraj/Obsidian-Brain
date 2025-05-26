@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "241cfe75edc8570c",
+        "id": "1077dd9d8938945a",
         "type": "tabs",
         "children": [
           {
-            "id": "a99d70552a4864e8",
+            "id": "5e8eb176d2362fea",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Behavioral Interview Questions/Question Bank.md",
-                "bFile": "Behavioral Interview Questions/Question Bank.md",
-                "aRef": ""
+                "file": "Good Reads/Database Trade Offs/Databases/Apache Kafka System Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Question Bank"
+              "icon": "lucide-file",
+              "title": "Apache Kafka System Design"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 610.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,13 +198,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a99d70552a4864e8",
+  "active": "0e2949ca5cdf945c",
   "lastOpenFiles": [
+    "System Design/Design and implement a ranked cache system.md",
+    "Backend Languages/GoLang CheatSheet.md",
+    "Good Reads/Database Trade Offs/Databases/Redis vs Memcache.md",
+    "Backend Languages",
+    "Good Reads/Database Trade Offs/Databases/Kafka vs RebbitMQ.md",
+    "Good Reads/Database Trade Offs/Databases/Elastic Search (Lucene Engine).md",
+    "Good Reads/Database Trade Offs/Databases/Apache Kafka System Design.md",
+    "System Design/Question Bank.md",
+    "Behavioral Interview Questions/Question Bank.md",
+    "Behavioral Interview Questions/What are your strengths and weaknesses?.md",
+    "Behavioral Interview Questions/Managers HandBook.md",
     "Good Reads/Design Data Intensive Application/Chapter 3 - Storage and Retrieval.md",
     "Good Reads/Design Data Intensive Application/resources/btree.png",
     "Good Reads/Design Data Intensive Application/resources",
     "Good Reads/Design Data Intensive Application/Chapter 2 - Data Models and Query Languages.md",
-    "Behavioral Interview Questions/Managers HandBook.md",
     "Good Reads/Interview Rubric.md",
     "Good Reads/Kafka Transaction.md",
     "Good Reads/Database Trade Offs/Database Trade Offs.md",
@@ -214,20 +224,12 @@
     "Good Reads/Database Trade Offs/Databases/MySQL Database.md",
     "Good Reads/Database Trade Offs/Databases/ZooKeeper - The Coordination Service for Distributed Systems.md",
     "Good Reads/Database Trade Offs/Databases/Cassandra Database.md",
-    "Good Reads/Database Trade Offs/Databases/Apache Kafka System Design.md",
-    "System Design/Question Bank.md",
-    "Behavioral Interview Questions/Question Bank.md",
     "Behavioral Interview Questions/Solved a complex problem.md",
     "Behavioral Interview Questions/Describe an experience working in a cross-functional team.md",
     "Behavioral Interview Questions/Tell me about a time when you received negative feedback.md",
     "Behavioral Interview Questions/Tell me about a time when you made short-term sacrifices for long-term gains..md",
     "Object Oriented Concepts/Behavioral Design Pattern.md",
     "Object Oriented Concepts/Creational Design Patterns.md",
-    "Behavioral Interview Questions/resources/automatic_portfolio_management.md",
-    "Behavioral Interview Questions/Project Discussion.md",
-    "Behavioral Interview Questions/What is the project you are most proud of?.md",
-    "Behavioral Interview Questions/What You Enjoy Most.md",
-    "Behavioral Interview Questions/Why do you think we should not hire you?.md",
     "infoQ/resources",
     "infoQ",
     "Competitive Programming/problem_solving.pdf",
@@ -235,7 +237,6 @@
     "Good Reads/Database Trade Offs",
     "Good Reads/Database Trade Offs/Databases",
     "Object Oriented Concepts",
-    "Behavioral Interview Questions/resources",
     "Good Reads/Resources/tech_lead.jpeg",
     "Tech Courses/Resources/diagram_2.canvas",
     "Tech Courses/Resources/diagram_1.canvas",

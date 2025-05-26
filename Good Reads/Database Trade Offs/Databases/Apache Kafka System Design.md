@@ -1,3 +1,4 @@
+![YT](https://www.youtube.com/watch?v=DU8o-OTeoCc&t=1007s)
 # 1. Overview  
   
 ## 1.1 System Purpose and Key Components Diagram  
