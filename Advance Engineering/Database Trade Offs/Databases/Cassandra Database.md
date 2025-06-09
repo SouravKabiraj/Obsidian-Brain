@@ -8,13 +8,13 @@
 - Data is **time-series heavy** (e.g., temperature, pressure logs).  
 
 #### **Why Cassandra Dominates Here?**  
-| Feature | Cassandra’s Advantage | Why Others Struggle |  
-|---------|----------------------|---------------------|  
-| **Write Throughput** | ✅ **Handles millions of writes/sec** (append-friendly SSTable storage). | ❌ SQL DBs (PostgreSQL/MySQL) choke on high-velocity writes due to B-tree indexing overhead. |  
-| **Linear Scalability** | ✅ **Add nodes seamlessly** (no downtime, no manual sharding). | ❌ MongoDB sharding requires config; DynamoDB scales but is vendor-locked. |  
-| **Fault Tolerance** | ✅ **Multi-DC replication** (survives regional outages). | ❌ Single-region SQL DBs fail catastrophically in outages. |  
-| **Low Latency** | ✅ **Tunable consistency** (e.g., `QUORUM` for balance). | ❌ Strong consistency (PostgreSQL) adds latency in global setups. |  
-| **Time-Series Optimization** | ✅ **Wide-column model** excels at time-ordered data. | ❌ Relational DBs struggle with time-series partitioning. |  
+| Feature                      | Cassandra’s Advantage                                                   | Why Others Struggle                                                                         |     |
+| ---------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --- |
+| **Write Throughput**         | ✅ **Handles millions of writes/sec** (append-friendly SSTable storage). | ❌ SQL DBs (PostgreSQL/MySQL) choke on high-velocity writes due to B-tree indexing overhead. |     |
+| **Linear Scalability**       | ✅ **Add nodes seamlessly** (no downtime, no manual sharding).           | ❌ MongoDB sharding requires config; DynamoDB scales but is vendor-locked.                   |     |
+| **Fault Tolerance**          | ✅ **Multi-DC replication** (survives regional outages).                 | ❌ Single-region SQL DBs fail catastrophically in outages.                                   |     |
+| **Low Latency**              | ✅ **Tunable consistency** (e.g., `QUORUM` for balance).                 | ❌ Strong consistency (PostgreSQL) adds latency in global setups.                            |     |
+| **Time-Series Optimization** | ✅ **Wide-column model** excels at time-ordered data.                    | ❌ Relational DBs struggle with time-series partitioning.                                    |     |
 
 ---
 
