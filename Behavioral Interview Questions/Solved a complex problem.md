@@ -1,25 +1,39 @@
-**Situation:**  
-Our product was in a vicious cycle - 30% of engineering capacity was trapped addressing recurring production issues while leadership demanded new features to meet revenue targets. This created conflicting priorities between innovation and stability.
+## Bullet Points
+1. Designed testing framework for All Lending Products
+2. Process future repayments
+3. Proposed and developed a time cursor mechanism
+4. Fixed glitches with each iteration
+5. Training sessions for QA
+6. Embed the time cursor into automation pipeline
+7. Designed safeguards for production
+8. Reduced testing time
+9. Standardised date-dependent testing
+10. Added this KT in onboarding Kit 
+## Situation
+During the launch of our Flexi Loan product, we faced a critical testing bottleneck: validating loan repayments scheduled 250 days after creation. Manual testing by waiting 250 days was impossible without delaying the launch.
 
-**Task:**  
-Design a sustainable solution to break this cycle by:
-1. Reducing firefighting bandwidth drain
-2. Maintaining feature velocity
-3. Rebuilding customer trust
+## Task
+My responsibility was to design a feasible, secure, and efficient testing solution that:
+- Allowed instant validation of time-sensitive repayments
+- Prevented misuse in production
+- Enabled seamless collaboration between Dev, QA, and Automation teams
+## Action
+1. Leadership & Innovation
+- Proposed and developed a time cursor mechanism for test environments, letting us:
+- Backdate loans (e.g., to Jan 1, 1990)
+- Simulate 250 days later (e.g., Sep 8, 1990) for repayment testing.
 
-**Action:**
-1. Root cause analysis:
-    - Categorised 58 production issues by frequency/impact
-    - Identified 15 core stability patterns causing 80% of problems
-2. Solution framework:
-    - Created Stability Index metric to quantify technical debt
-    - Implemented "Fix-Feature Ratio" (30% of each sprint for stability)
-3. Change management:
-    - Worked with finance to model long-term ROI
-    - Established stability KPIs in leadership dashboard
+3. Teamwork & Influence
+- Documented the process for QA teams and held training sessions.
+- Partnered with Automation engineers to embed the feature into CI/CD pipelines.
 
-**Result:**
-- Reduced critical outages from 5/month to 1/month
-- Increased feature delivery speed by 40% in H2
-- Customer retention improved by 18% YoY
-- Model adopted as standard practice across product teams
+4. Ethical Conflict Mitigation
+- Designed safeguards:
+	- Disabled time cursor in production via environment checks.
+	- Added audit logs for transparency.
+	- Briefed stakeholders on risks and controls.
+## Result
+- Reduced testing time by 8 weeks, ensuring on-time launch.
+- Became a standard practice for date-dependent testing.
+
+Zero incidents of misuse due to proactive security measures.

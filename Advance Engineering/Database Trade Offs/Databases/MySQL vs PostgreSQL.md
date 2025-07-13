@@ -31,13 +31,9 @@ These dead tuples consume disk space and slow down queries. Hence, PostgreSQL ne
 ### 🛠️ MySQL (InnoDB):
 
 - Uses clustered B+ trees for both tables and indexes.
-    
 - On heavy insert/update/delete:
-    
     - Pages may split or merge frequently.
-        
-    - This leads to **frequent rebalancing** of the tree structure.
-        
+    - This leads to frequent rebalancing of the tree structure.
 - Rebalancing keeps performance stable but adds I/O overhead.
     
 

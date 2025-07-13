@@ -10,6 +10,7 @@
 | Message Push | RebbitMQ can push message to consumer     | Kafka can't push message to consumer                          |
 | Flexibility  | Flexible                                  | Scale down from N partition to N-1 partition is not possible. |
 | Velocity     | Fast                                      | Slow                                                          |
+| Replay       | NA                                        | Possible                                                      |
 
 >Kafka
 ```mermaid 

@@ -86,13 +86,13 @@ WriteRequest -->|"1 Append to WAL"| B
 
 WriteRequest -->|"2 Insert to Memtable"| A
 
-A -->|"3 Memtable Full (Flush to Disk)"| C
+A -->|"3 Memtable Full - Flush to Disk"| C
 
 C -->|"4 Periodic Compaction"| G
 
 D -->|"4 Periodic Compaction"| G
 
-G -->|"5 Create Merged SSTable (Remove Duplicates)"| F
+G -->|"5 Create Merged SSTable - Remove Duplicates"| F
 
   
 

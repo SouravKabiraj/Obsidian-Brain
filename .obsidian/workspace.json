@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "04a8852641383a0c",
+        "id": "054f38ac4484cf59",
         "type": "tabs",
         "children": [
           {
-            "id": "f61360df65b1b0bb",
+            "id": "c1309571359f3f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advance Engineering/Database Trade Offs/Databases/PostGIS - A PostgreSQL Plugin.md",
+                "file": "Behavioral Interview Questions/Managers HandBook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostGIS - A PostgreSQL Plugin"
+              "title": "Managers HandBook"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "tag:#deep_dive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5024719238281
+    "width": 274.5024719238281
   },
   "right": {
     "id": "7ed3e2c201fb7576",
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Behavioral Interview Questions/Managers HandBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Managers HandBook"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Behavioral Interview Questions/Question Bank.md",
+                "file": "Behavioral Interview Questions/Managers HandBook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Question Bank"
+              "title": "Outline of Managers HandBook"
             }
           },
           {
@@ -175,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,35 +190,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f61360df65b1b0bb",
+  "active": "0e2949ca5cdf945c",
   "lastOpenFiles": [
+    "Behavioral Interview Questions/Behavioral Interview Guide For Engineers (by ex-Amazon).md",
+    "Behavioral Interview Questions/Question Bank.md",
+    "Behavioral Interview Questions/Tell me about a time when you made short-term sacrifices for long-term gains..md",
+    "Behavioral Interview Questions/Project Discussion.md",
+    "Behavioral Interview Questions/Managers HandBook.md",
+    "Behavioral Interview Questions/Tell me about a time you disagreed with someone and how you resolved it.md",
+    "Behavioral Interview Questions/Tell me about a time you made a mistake..md",
+    "Advance Engineering/Database Trade Offs/Database Trade Offs.md",
+    "Advance Engineering/Database Trade Offs/Databases/Cassandra Database.md",
     "Advance Engineering/Database Trade Offs/Databases/MySQL vs PostgreSQL.md",
-    "Advance Engineering/Database Trade Offs/Databases/PostGIS - A PostgreSQL Plugin.md",
     "Advance Engineering/Database Trade Offs/Databases/MySQL Database.md",
-    "Advance Engineering/Transfer Protocol/Apache Kafka System Design.md",
     "Advance Engineering/Database Trade Offs/Databases/Kafka vs RebbitMQ.md",
     "Advance Engineering/Database Trade Offs/Databases/Elastic Search (Lucene Engine).md",
-    "Excalidraw/Drawing 2025-06-08 18.56.47.excalidraw.md",
-    "Behavioral Interview Questions/Behavioral Interview Guide For Engineers (by ex-Amazon).md",
-    "Behavioral Interview Questions/Tell me about a time when you missed a deadline.md",
-    "Behavioral Interview Questions/resources/Behavioral+Interview+Guide.pdf",
-    "Behavioral Interview Questions/resources/automatic_portfolio_management.md",
-    "Behavioral Interview Questions/resources/lending_overview.md",
-    "Behavioral Interview Questions/Amazon Leadership Principal.md",
-    "System Design/Design Doordash's Item Order review and rating system.md",
-    "System Design/Design APIs for Facebook live commenting.md",
-    "System Design/Design and implement a ranked cache system.md",
-    "Good Reads/Arpitbhayani/1. Foundational Topics in System Design - I.md",
-    "System Design/Resources/Amazon Price Tracker.md",
-    "System Design/Design an Amazon price tracker.md",
     "System Design/Question Bank.md",
-    "System Design/Resources/Doordash Review.md",
-    "Daily Task.md",
-    "2025-06-03.md",
-    "Excalidraw/Drawing 2025-06-03 13.52.50.excalidraw.md",
-    "infoQ/DoorDash - Policy Automation Platform.md",
-    "Behavioral Interview Questions/Question Bank.md",
-    "Advance Engineering/Database Trade Offs/Databases/Cassandra Database.md",
+    "Good Reads/Design Data Intensive Application/Chapter 3 - Storage and Retrieval.md",
+    "Good Reads/Design Data Intensive Application/Chapter 2 - Data Models and Query Languages.md",
+    "Advance Engineering/Database Trade Offs/Databases/Redis vs Memcache.md",
+    "Advance Engineering/Database Trade Offs/Databases/PostGIS - A PostgreSQL Plugin.md",
+    "Behavioral Interview Questions/Challenges You Faced.md",
+    "Behavioral Interview Questions/Solved a complex problem.md",
+    "Behavioral Interview Questions/Tell me about a time when you worked on a project with a tight deadline.md",
+    "Behavioral Interview Questions/Tell me about a time when you received negative feedback.md",
+    "Behavioral Interview Questions/What is the project you are most proud of?.md",
+    "System Design/Resources/facebook_live_chat.md",
+    "Behavioral Interview Questions/Amazon Leadership Principal.md",
+    "Behavioral Interview Questions/Leadership Skill.md",
+    "Advance Engineering/Database Trade Offs/cstore.pdf",
+    "Behavioral Interview Questions/resources/Behavioral+Interview+Guide.pdf",
     "Good Reads/Design Data Intensive Application/resources/btree.png",
     "Good Reads/Arpitbhayani",
     "Advance Engineering/Transfer Protocol",
@@ -227,7 +229,6 @@
     "Advance Engineering/Security",
     "Advance Engineering",
     "Backend Languages",
-    "Good Reads/Design Data Intensive Application/resources",
     "Good Reads/Resources/tech_lead.jpeg",
     "Tech Courses/Resources/diagram_2.canvas",
     "Tech Courses/Resources/diagram_1.canvas",

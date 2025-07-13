@@ -1,3 +1,6 @@
+### Cross Team Communication
+- RACI Model (Responsible, Accountable, Consulted, Informed)  [TY](https://www.youtube.com/watch?v=1U2gngDxFkc)
+---
 ### Project & Deadline Management
 - **Iron Triangle (Scope–Time–Cost)** – Balance constraints. [YT](https://www.youtube.com/watch?v=JHSHOAfV-uw)
 - **Critical Path Method (CPM)** – Identify key tasks to prevent delays. [YT](https://www.youtube.com/watch?v=-TDh-5n90vk)
