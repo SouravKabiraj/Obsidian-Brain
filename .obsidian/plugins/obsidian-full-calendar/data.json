@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#8457ff",
+      "url": "https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/c79784f2-3a8d-49ec-b323-8136c6685960/cid-D2849B7C2DFFF589/calendar.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}

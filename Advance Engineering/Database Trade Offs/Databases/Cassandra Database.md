@@ -44,6 +44,7 @@
 ❌ **Complex transactions** (e.g., banking systems needing ACID).  
 ❌ **Applications with heavy joins** (e.g., social networks with deep relational graphs).  
 ❌ **Small-scale apps** (overkill if <10K writes/sec).  
+❌ No **range query** support
 
 ---
 

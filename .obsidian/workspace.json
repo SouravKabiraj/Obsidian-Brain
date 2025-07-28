@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "054f38ac4484cf59",
+        "id": "3486d63bf925fd76",
         "type": "tabs",
         "children": [
           {
-            "id": "c1309571359f3f48",
+            "id": "95241207a8bb9d82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Behavioral Interview Questions/Managers HandBook.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Advance Engineering/Database Trade Offs/Databases/Cassandra Database.md",
+                "bFile": "Advance Engineering/Database Trade Offs/Databases/Cassandra Database.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Managers HandBook"
+              "icon": "diff",
+              "title": "Diff: Cassandra Database"
             }
           }
         ]
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Behavioral Interview Questions/Managers HandBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Managers HandBook"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,23 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Behavioral Interview Questions/Managers HandBook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Managers HandBook"
-            }
-          },
-          {
-            "id": "8ab1cbd0e87bf473",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline"
             }
           },
           {
@@ -172,11 +160,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 680.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,37 +175,38 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0e2949ca5cdf945c",
+  "active": "95241207a8bb9d82",
   "lastOpenFiles": [
+    "Daily Task.md",
+    "Advance Engineering/Database Trade Offs/Databases/Cassandra Database.md",
+    "System Design/Design an Amazon price tracker.md",
+    "System Design/Question Bank.md",
+    "System Design/How would you design 'Hot Topics' on Instagram?.md",
+    "System Design/Design and implement a ranked cache system.md",
+    "System Design/Design a file system (Google Drive).md",
+    "System Design/Resources/instagram_hot_topic.md",
+    "Behavioral Interview Questions/Managers HandBook.md",
     "Behavioral Interview Questions/Behavioral Interview Guide For Engineers (by ex-Amazon).md",
     "Behavioral Interview Questions/Question Bank.md",
     "Behavioral Interview Questions/Tell me about a time when you made short-term sacrifices for long-term gains..md",
     "Behavioral Interview Questions/Project Discussion.md",
-    "Behavioral Interview Questions/Managers HandBook.md",
     "Behavioral Interview Questions/Tell me about a time you disagreed with someone and how you resolved it.md",
     "Behavioral Interview Questions/Tell me about a time you made a mistake..md",
     "Advance Engineering/Database Trade Offs/Database Trade Offs.md",
-    "Advance Engineering/Database Trade Offs/Databases/Cassandra Database.md",
     "Advance Engineering/Database Trade Offs/Databases/MySQL vs PostgreSQL.md",
     "Advance Engineering/Database Trade Offs/Databases/MySQL Database.md",
     "Advance Engineering/Database Trade Offs/Databases/Kafka vs RebbitMQ.md",
     "Advance Engineering/Database Trade Offs/Databases/Elastic Search (Lucene Engine).md",
-    "System Design/Question Bank.md",
     "Good Reads/Design Data Intensive Application/Chapter 3 - Storage and Retrieval.md",
     "Good Reads/Design Data Intensive Application/Chapter 2 - Data Models and Query Languages.md",
     "Advance Engineering/Database Trade Offs/Databases/Redis vs Memcache.md",
     "Advance Engineering/Database Trade Offs/Databases/PostGIS - A PostgreSQL Plugin.md",
     "Behavioral Interview Questions/Challenges You Faced.md",
     "Behavioral Interview Questions/Solved a complex problem.md",
-    "Behavioral Interview Questions/Tell me about a time when you worked on a project with a tight deadline.md",
-    "Behavioral Interview Questions/Tell me about a time when you received negative feedback.md",
-    "Behavioral Interview Questions/What is the project you are most proud of?.md",
-    "System Design/Resources/facebook_live_chat.md",
-    "Behavioral Interview Questions/Amazon Leadership Principal.md",
-    "Behavioral Interview Questions/Leadership Skill.md",
     "Advance Engineering/Database Trade Offs/cstore.pdf",
     "Behavioral Interview Questions/resources/Behavioral+Interview+Guide.pdf",
     "Good Reads/Design Data Intensive Application/resources/btree.png",
